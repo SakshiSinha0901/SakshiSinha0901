@@ -16,7 +16,7 @@ I'm currently pursuing my B.Tech in Computer Science and Engineering (CSE) and a
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakshiSinha0901&theme=radical)
 
 ### Fun Facts:
-![Fun GIF](https://your-gif-url.com/fun-animation.gif)
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 🌐 Connect with Me:
 - **GitHub**: [SakshiSinha0901](https://github.com/SakshiSinha0901)
