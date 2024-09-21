@@ -11,8 +11,14 @@ I'm currently pursuing my B.Tech in Computer Science and Engineering (CSE) and a
 - **Currently Learning**: Data Structures and Algorithms (DSA)
   
 ### 📊 GitHub Stats:
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshiSinha0901&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakshiSinha0901&theme=radical)
+![Sakshi's GitHub stats]### 📊 GitHub Stats:
+
+<p align="center">
+  <a href="https://github.com/SakshiSinha0901">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SakshiSinha0901&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiSinha0901&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</p>
 
 ### Fun Facts:
 - I love **drawing** and **reading books** during my free time!
