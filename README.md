@@ -27,6 +27,7 @@ I'm currently pursuing my B.Tech in Computer Science and Engineering (CSE) and a
 - **GitHub**: [SakshiSinha0901](https://github.com/SakshiSinha0901)
 - **Email**: [sakshi2006sinha@gmail.com](mailto:sakshi2006sinha@gmail.com)
 - **Instagram**: [Instagram](https://www.instagram.com/_k.yoto_/)
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/sakshi-sinha-/)
 
 ### 📫 Contact:
 For any inquiries, feel free to reach out via email at [sakshi2006sinha@gmail.com](mailto:sakshi2006sinha@gmail.com).
