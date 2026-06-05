@@ -7,7 +7,7 @@ I'm currently pursuing my B.Tech in Computer Science and Engineering (CSE) and a
 - **Data Structures and Algorithms** (to strengthen my problem-solving skills)
   
 ### 🛠️ Skills & Technologies:
-- **Languages**: Python(Basics), PHP(Basics)
+- **Languages**: Python(Basics), PHP(Basics), JavaScript, HTML, CSS
 - **Currently Learning**: Data Structures and Algorithms (DSA)
   
 ### 📊 GitHub Stats:
