@@ -9,6 +9,8 @@ I'm currently pursuing my B.Tech in Computer Science and Engineering (CSE) and a
 ### 🛠️ Skills & Technologies:
 - **Languages**: Python(Basics), PHP(Basics), JavaScript, HTML, CSS
 - **Currently Learning**: Data Structures and Algorithms (DSA)
+
+[![An image of @sakshisinha0901's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sakshisinha0901)](https://holopin.io/@sakshisinha0901)
   
 ### 📊 GitHub Stats:
 ![Sakshi's GitHub stats]### 📊 GitHub Stats:
