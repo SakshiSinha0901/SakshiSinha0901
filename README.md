@@ -1,5 +1,5 @@
 # Hi there, I'm Sakshi Sinha! 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=2FD1E6&width=435&lines=Welcome+to+my+GitHub+Profile!;Solving some real life problems; Trying to solve some errors 😅, Lets connect on Linkdin 😊!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=2FD1E6&width=435&lines=Welcome+to+my+GitHub+Profile!; Solving some real life problems; Trying to solve some errors 😅, Lets connect on Linkdin 😊!)
 
 ### About Me:
 I'm currently pursuing my B.Tech in Computer Science and Engineering (CSE) and am passionate about learning new technologies. At present, I am focused on enhancing my skills in **Data Structures and Algorithms (DSA)**, aiming to improve my problem-solving abilities. 
